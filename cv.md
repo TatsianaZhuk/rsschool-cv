@@ -34,6 +34,5 @@ I don`t have any commercial experience yet, but try to do my best with some proj
 * Ukrainian - C1
 * English - B2
 * German - A2
-* Polish - A2  
-
+* Polish - A2 
 
