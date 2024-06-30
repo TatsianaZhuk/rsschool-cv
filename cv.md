@@ -24,5 +24,8 @@
 * Django Rest Framework
 * API
 
+### Work Experience
 
+I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream!
+ 
 
