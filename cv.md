@@ -27,5 +27,13 @@
 ### Work Experience
 
 I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream!
- 
+
+### Languages
+
+* Russian - C1
+* Ukrainian - C1
+* English - B2
+* German - A2
+* Polish - A2  
+
 
