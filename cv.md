@@ -21,6 +21,8 @@
 * SQL
 * OOP
 * Git/GitHub
-* Django/ DRF
-* Api
+* Django Rest Framework
+* API
+
+
 
