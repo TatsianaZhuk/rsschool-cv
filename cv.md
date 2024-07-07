@@ -9,7 +9,7 @@
 
 ### Summary
 
-I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream! I am very goal-oriented and know how to achieve what I want. If something doesn’t work out for me, I make every effort to figure it out and complete what I started. I am constantly studying and learning something new.I consider patience to be one of my strengths.
+I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream! I am very goal-oriented and know how to achieve what I want. If something doesn’t work out for me, I make every effort to figure it out and complete what I started. I am constantly studying and learning something new. I consider patience to be one of my strengths
 
 ### Skills
 
@@ -24,23 +24,9 @@ I don`t have any commercial experience yet, but try to do my best with some proj
 
 ### Code example
 ```
-def start_test(login):
-    right_answers = 0
-    for i in range(1, 6):
-        try:
-            question, answer = generate_random_test()
-            print(f'Реши пример: {question}')
-            user_answer = int(input('Ваш ответ: '))
-            if answer == user_answer:
-                right_answers += 1
-        except Exception as e:
-            print('Вы ввели ерунду и потеряли шанс получить баллы')
-    mark = right_answers * 2
-    if login in students:
-        students[login].append((datetime.datetime.now(), mark))
-    else:
-        students[login] = [(datetime.datetime.now(), mark)]
-    print(f'Твоя отметка: {mark}') 
+multiply = function (a, b) {
+  return a * b;
+}
 ```
 
 ### Work Experience
