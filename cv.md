@@ -6,6 +6,7 @@
 * Phone: +375297468902
 * Email: tanyazhuk94@gmail.com
 * GitHub: TatsianaZhuk
+* Discord: tatsianazhuk
 
 ### Summary
 
