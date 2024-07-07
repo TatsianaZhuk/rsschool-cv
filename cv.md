@@ -3,13 +3,13 @@
 ### Contact Me
 
 * Adress: Brest, Belarus
-* Phone: 8+375297468902
+* Phone: +375297468902
 * Email: tanyazhuk94@gmail.com
 * GitHub: TatsianaZhuk
 
 ### Summary
 
-I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream!
+I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream! I am very goal-oriented and know how to achieve what I want. If something doesn’t work out for me, I make every effort to figure it out and complete what I started. I am constantly studying and learning something new.
 
 ### Skills
 
@@ -42,7 +42,7 @@ def start_test(login):
         students[login] = [(datetime.datetime.now(), mark)]
     print(f'Твоя отметка: {mark}') 
 ```
-    
+
 ### Work Experience
 
 Have some projects which I made during my study programm at IT school. Here the are:
