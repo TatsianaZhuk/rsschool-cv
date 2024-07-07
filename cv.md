@@ -1,4 +1,4 @@
-***TATSIANA ZHUK CV**
+**TATSIANA ZHUK CV**
 
 ### Contact Me
 
@@ -23,7 +23,6 @@ I don`t have any commercial experience yet, but try to do my best with some proj
 * API
 
 ### Code example
-
 ```
 def start_test(login):
     right_answers = 0
@@ -41,13 +40,13 @@ def start_test(login):
         students[login].append((datetime.datetime.now(), mark))
     else:
         students[login] = [(datetime.datetime.now(), mark)]
-    print(f'Твоя отметка: {mark}')
-    ```
-
+    print(f'Твоя отметка: {mark}') 
+```
+    
 ### Work Experience
 
 Have some projects which I made during my study programm at IT school. Here the are:
-[My repository on GitHub](https://github.com/TatsianaZhuk?tab=repositories)
+[My repositories on GitHub](https://github.com/TatsianaZhuk?tab=repositories)
 
 ### Education
 
@@ -62,4 +61,3 @@ Have some projects which I made during my study programm at IT school. Here the 
 * English - B2
 * German - A2
 * Polish - A2 
-
