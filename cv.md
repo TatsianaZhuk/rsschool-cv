@@ -9,7 +9,7 @@
 
 ### Summary
 
-I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream! I am very goal-oriented and know how to achieve what I want. If something doesn’t work out for me, I make every effort to figure it out and complete what I started. I am constantly studying and learning something new.
+I don`t have any commercial experience yet, but try to do my best with some projects as junior developer to get the first offer to work of my dream! I am very goal-oriented and know how to achieve what I want. If something doesn’t work out for me, I make every effort to figure it out and complete what I started. I am constantly studying and learning something new.I consider patience to be one of my strengths.
 
 ### Skills
 
